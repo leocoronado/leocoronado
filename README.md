@@ -1,4 +1,6 @@
-This is my personal place to learn GitHub
+This is my personal place to learn GitHub.
+
+Leo
 
 <!---
 leocoronado/leocoronado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
